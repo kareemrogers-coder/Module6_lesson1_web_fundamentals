@@ -1,5 +1,5 @@
 import requests
-
+import json
 
 def fetch_planet_data():
     url = "https://api.le-systeme-solaire.net/rest/bodies/"
